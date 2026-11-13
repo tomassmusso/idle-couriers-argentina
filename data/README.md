@@ -48,11 +48,3 @@ Each survey has an `ObservationID` that matches the `ResponseId` of a field obse
 | Hypothesis 3, hours of waiting | 65 |
 | Hypothesis 3, proportion of the workday spent waiting | 63 |
 
-## Access
-
-Access to the data depends on the initiative. To request it, contact the authors (see the main [README](../README.md)), who can point you to the right contact.
-
-## Privacy
-
-- The notebook uses GPS coordinates only to filter observations and to draw the heat map. The repository includes the heat map as a static image, not the coordinates.
-- No individual responses are published.
