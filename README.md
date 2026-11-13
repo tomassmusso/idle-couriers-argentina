@@ -19,7 +19,6 @@ idle-couriers-argentina/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── requirements.txt
 ├── report/
 │   ├── Urban_Spatial_Organization_of_Couriers_During_Idle_Periods.pdf
 │   └── Urban_Spatial_Organization_of_Couriers_During_Idle_Periods_extended.pdf  (to be added)
